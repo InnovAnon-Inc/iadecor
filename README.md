@@ -6,15 +6,39 @@ IA Home Decor Extensions
 
 ----------
 
-## Home Decor
+## Home Decor Office / Calendar
 
-- make nodes functional
+- make calendar nodes functional
+- based on `calendar_node` ? uses `calendar` API
 
 -----
 
-## Church / Wine
+## Home Decor Pictures and Paintings
 
-- honey patch
+Paintings & Music
+- Religious
+- Historical
+- Propaganda
+- Nostalgiac
+- Memetic
+
+-----
+
+## Church Candles / Wine
+
+- honey patch to make mead
+
+-----
+
+## Church Cross
+
+- more cross types
+- make them invertible
+
+-----
+
+- put bugs in jars
+- bug torture
 
 -----
 
